@@ -1,4 +1,4 @@
-# Mobile Web Specialist Certification Course
+# Frontend Developer Nanodegree Course
 ---
 #### _Udacity FEND P7 - Restaurant Reviews_
 
