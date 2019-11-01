@@ -65,7 +65,9 @@ nav h1 a {
   font-weight: 200;
   letter-spacing: 3px;
   text-transform: uppercase;
-
+}
+nav h1 a:hover {
+  color: #f18200;
 }
 #breadcrumb {
     padding: 16px 0;
